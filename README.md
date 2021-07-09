@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# iaad
-Repositório destinado a disciplina de Introdução ao Armazenamento e Análise de Dados 
+# Introdução ao Armazenamento e Análise de Dados
 =======
-# implementacao_do_sistema
-
-Implementação do sistema IAAD
+# Implementação do sistema referente ao projeto final
 
 ## Getting Started
 
@@ -18,4 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> 9df943a (Initial commit)
+
