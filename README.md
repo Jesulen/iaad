@@ -1,6 +1,6 @@
 # Introdução ao Armazenamento e Análise de Dados
 =======
-# Implementação do sistema referente ao projeto final
+Implementação do sistema referente ao projeto final
 
 ## Getting Started
 
